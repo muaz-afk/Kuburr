@@ -833,7 +833,7 @@ export default function BookingPage() {
 
               {/* Plot Selection */}
               <section>
-                      <h2 className="text-lg font-semibold text-gray-800 mb-4">Pilihan Plot Kubur</h2>
+                      <h2 className="text-lg font-semibold text-gray-800 mb-4">Pilihan Lot Kubur</h2>
                       {grid.length === 0 && !isLoading && (
                          <p className="text-sm text-gray-500">Tiada plot tersedia atau gagal dimuatkan.</p>
                       )}
