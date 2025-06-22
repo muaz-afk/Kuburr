@@ -156,7 +156,7 @@ export default function ManagePackages() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center mb-6">
           <h1 className="text-2xl sm:text-3xl font-bold tracking-tight text-gray-900">
-            Urus Pengurusan Pengebumian
+            Urus Pengurusan Ditawarkan
           </h1>
           <button
             onClick={openAddModal}
